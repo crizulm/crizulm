@@ -19,7 +19,7 @@ const crizulm = {
         webApp: {
             js: ["Angular", "React"]
         },
-        devOps: ["AWS", "Docker�", "Nginx"],
+        devOps: ["AWS", "Docker", "Jenkins, "Nginx"],
         databases: ["MySQL", "PostgreSQL", "SQLite"],
     },
 }
