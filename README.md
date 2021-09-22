@@ -6,7 +6,7 @@
 [![Linkedin: Matias Crizul](https://img.shields.io/badge/-matiascrizul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matiascrizul/)](https://www.linkedin.com/in/matiascrizul/)
 [![GitHub crizulm](https://img.shields.io/github/followers/crizulm?label=follow&style=social)](https://github.com/crizulm)
 
-### About me...  
+## About me...  
 
 ```javascript
 const crizulm = {
