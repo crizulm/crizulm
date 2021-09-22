@@ -9,7 +9,7 @@
 ## About me...  
 
 ```javascript
-const crizulm = {
+const crizulm: Skills = {
   code: [Javascript, Typescript, C#, Ruby, HTML, CSS, Java],
   tools: [Node, Angular, React, Redux, Rails],
   technologies: {
