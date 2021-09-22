@@ -21,7 +21,7 @@ const crizulm: Skills = {
         },
         devOps: ["AWS", "Docker", "Jenkins, "Nginx"],
         databases: ["MySQL", "PostgreSQL", "SQLite"],
-    },
+    }
 }
 ```
 
