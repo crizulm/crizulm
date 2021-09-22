@@ -1,5 +1,4 @@
 <h2> Hi, I'm Matias! 👋</h2>
-<img align='right' src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="300">
 <p><em>Software Enginner from Montevideo, Uruguay </br>Get in touch 👉 <a href="malito:crizulm@gmail.com">crizulm@gmail.com</a></em></p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crizulm&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
