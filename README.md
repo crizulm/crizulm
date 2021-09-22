@@ -14,13 +14,13 @@ const crizulm: Skills = {
   tools: [Node, Angular, React, Redux, Rails],
   technologies: {
         backEnd: {
-            js: ["Node", "Nest", "Express", "Rails", "C#", "SuiteScript"],
+            js: ["Node", "Nest", "Express", "Rails", "C#", "SuiteScript"]
         },
         webApp: {
             js: ["Angular", "React"]
         },
         devOps: ["AWS", "Docker", "Jenkins, "Nginx"],
-        databases: ["MySQL", "PostgreSQL", "SQLite"],
+        databases: ["MySQL", "PostgreSQL", "SQLite"]
     }
 }
 ```
