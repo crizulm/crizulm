@@ -14,7 +14,7 @@ const crizulm: Skills = {
   tools: [Node, Angular, React, Redux, Rails],
   technologies: {
         backEnd: {
-            js: ["Node", "Nest", "Express", "Rails", "C#", "SuiteScript"]
+            js: ["Node", "Nest", "Express", "NestJS", "NextJS", "Rails", "C#", "SuiteScript"]
         },
         webApp: {
             js: ["Angular", "React"]
