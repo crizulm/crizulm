@@ -17,10 +17,10 @@ const crizulm: Skills = {
             js: ["Node", "Nest", "Express", "NestJS", "NextJS", "Rails", "C#", "SuiteScript"]
         },
         webApp: {
-            js: ["Angular", "React"]
+            js: ["Angular", "React", "Ionic"]
         },
         devOps: ["AWS", "Docker", "Jenkins, "Nginx"],
-        databases: ["MySQL", "PostgreSQL", "SQLite"]
+        databases: ["MySQL", "MongoDB", "PostgreSQL", "SQLite"]
     }
 }
 ```
