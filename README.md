@@ -29,8 +29,7 @@ const crizulm: Skills = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crizulm&layout=compact&langs_count=8&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-### Favorite Technologies 🔬
-#### Development
+### Favorite Technologies 
 [![Node.JS](https://img.shields.io/static/v1?label=&message=Node.js&logo=node.js&darkgreen=darkblue&labelColor=white&color=darkgreen)](https://nodejs.org/es/)
 [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&logo=TypeScript&darkgreen=darkblue&labelColor=white&color=3178C6)](https://www.typescriptlang.org/)
 [![ExpressJS](https://img.shields.io/static/v1?label=&message=ExpressJS&logo=express&logoColor=black&labelColor=white&color=black)](https://expressjs.com/)
