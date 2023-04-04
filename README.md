@@ -39,5 +39,5 @@ const crizulm: Skills = {
 [![React](https://img.shields.io/static/v1?label=&message=React&logo=react&logoColor=blue&labelColor=white&color=blue)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/static/v1?label=&message=Next.js&logo=Next.js&logoColor=black&labelColor=white&color=black)](https://nextjs.org/)
 [![StoryBook](https://img.shields.io/static/v1?label=&message=StoryBook&logo=storybook&iconColor=pink&labelColor=white&color=ff69b4)](https://storybook.js.org/)
-
+[![Angular](https://img.shields.io/static/v1?label=&message=Angular&logo=angular&logoColor=black&labelColor=white&color=black)](https://angular.io/)
 [![Ionic](https://img.shields.io/static/v1?label=&message=Ionic&logo=ionic&logoColor=blue&labelColor=white&color=blue)](https://ionicframework.com/)
