@@ -36,8 +36,8 @@ const crizulm: Skills = {
 [![ExpressJS](https://img.shields.io/static/v1?label=&message=ExpressJS&logo=express&logoColor=black&labelColor=white&color=black)](https://expressjs.com/)
 [![NestJS](https://img.shields.io/static/v1?label=&message=NestJS&logo=NestJS&logoColor=E0234E&labelColor=white&color=E0234E)](https://NestJS.com/)
 
-[![React](https://img.shields.io/static/v1?label=&message=React&logo=react&logoColor=blue&labelColor=white&color=blue)](https://reactjs.org/)(https://www.electronjs.org/)
+[![React](https://img.shields.io/static/v1?label=&message=React&logo=react&logoColor=blue&labelColor=white&color=blue)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/static/v1?label=&message=Next.js&logo=Next.js&logoColor=black&labelColor=white&color=black)](https://nextjs.org/)
 [![StoryBook](https://img.shields.io/static/v1?label=&message=StoryBook&logo=storybook&iconColor=pink&labelColor=white&color=ff69b4)](https://storybook.js.org/)
 
-[![Ionic](https://img.shields.io/static/v1?label=&message=Ionic&logo=ionic&logoColor=blue&labelColor=white&color=blue)](https://ionicframework.com/)(https://ionicframework.com/)
+[![Ionic](https://img.shields.io/static/v1?label=&message=Ionic&logo=ionic&logoColor=blue&labelColor=white&color=blue)](https://ionicframework.com/)
